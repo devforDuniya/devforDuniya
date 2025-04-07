@@ -1,76 +1,74 @@
-# 👋 Hi, I'm Nishant Prabhat
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Nishant Prabhat
 
-I'm a passionate **Full Stack Software Developer** currently working at **Suggaa Ventures**, building scalable and performance-driven applications across web and mobile platforms.
-
----
-
-## 🛠 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Hasura](https://img.shields.io/badge/-Hasura-1EB4C2?style=flat&logo=hasura)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions)
-![Maestro](https://img.shields.io/badge/-Maestro-000000?style=flat&logo=maestro)
+### **Full Stack Developer | UI/UX Enthusiast | Performance Optimizer**
+Building scalable, pixel-perfect applications with a focus on seamless user experiences.
 
 ---
 
-## 💼 Work Experience
+## 🚀 **Tech Stack & Tools**
 
-**Software Developer – Suggaa Ventures**  
-*June 2024 – Present | Bangalore, India*
+<div align="center">
 
-- Built user interfaces for a ride-hailing platform using **React.js** and **Next.js**, enhancing the UX for drivers and passengers.
-- Implemented **real-time location tracking**, and built a ride tracking dashboard—boosted operational efficiency by **40%**.
-- Created animated, reusable components using **Framer Motion** and **GSAP**.
-- Optimized web performance with **lazy loading**, **code splitting**, and **jotai-urql**, reducing TTI by **30%**.
-- Integrated **Firebase Cloud Messaging** for real-time notifications (**99.9%** delivery).
-- Implemented secure authentication using **SuperTokens** and **JWT**.
-- Automated testing & deployment using **Maestro** and **GitHub Actions** (90% test coverage).
+### **Frontend & Mobile**
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer)
 
-**Full Stack Web & Mobile Development Intern – Suggaa Ventures**  
-*May 2023 – June 2024*
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite)
+![Hasura](https://img.shields.io/badge/-Hasura-1EB4D4?style=for-the-badge&logo=hasura)
 
-- Developed Admin Dashboard, Driver Registration Portal, and mobile-first designs using **Next.js**.
-- Added ride analytics visualization for smarter decision-making.
-- Modularized frontend components and improved maintainability.
+### **DevOps & Testing**
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
 
----
-
-## 📌 Featured Projects
-
-- 🔧 [Ride-Hailing Platform UI](https://github.com/prabhatstm11/ride-hailing-ui)  
-  Real-time location tracking, FCM integration, lazy loading
-
-- 📊 [Driver Analytics Dashboard](https://github.com/prabhatstm11/driver-dashboard)  
-  Built with Next.js and Hasura – includes charts, filters, and analytics
-
-- 🔁 [CI/CD Automation with Maestro](https://github.com/prabhatstm11/maestro-ci-demo)  
-  Showcases automated mobile app testing & deployments
-
-- 🔔 [Firebase Notifications Demo](https://github.com/prabhatstm11/firebase-push-demo)  
-  Real-time push notifications with 99.9% delivery rate
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 💼 **Work Journey**
 
-![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhatstm11&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatstm11&layout=compact&theme=radical)
+### **🚗 Suggaa Ventures** _(June 2024 - Present)_  
+**Full Stack Developer**  
+✔ Built ride-hailing platform with **React + Next.js**  
+✔ **40% faster** ride tracking with real-time WebSockets  
+✔ **30% TTI reduction** via code splitting & Jotai  
+✔ **99.9% notification delivery** with Firebase Cloud Messaging  
+
+### **🎯 Suggaa Ventures** _(May 2023 - June 2024)_  
+**Intern → Full Stack Dev**  
+✔ Created driver onboarding portal (Next.js)  
+✔ Designed analytics dashboards with D3.js  
+✔ Automated testing with **Maestro (90% coverage)**
 
 ---
 
-## 📫 Let's Connect
+## 🔥 **Featured Projects**
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://nishant-portfolio-one.vercel.app/))  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/nishant-prabhat-b2383421b/))  
-📧 prabhatstm11@gmail.com  
-📱 +91-9304262976
+<div align="center">
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **[🛒 E-Commerce Platform](https://github.com/prabhatstm11/shopping-cart)** | React, Redux, Node | Mobile-first, RN-ready architecture |
+| **[🎾 Smash Booking](https://github.com/prabhatstm11/smash-badminton)** | Next.js, WebSockets | Real-time system, 99.9% uptime |
+| **[🚕 Ride-Hailing UI](https://github.com/prabhatstm11/ride-hailing-ui)** | Next.js, Firebase | FCM notifications, Mapbox |
+
+</div>
 
 ---
 
-_Thanks for stopping by!_
+## 📊 **GitHub Pulse**
+
+```mermaid
+pie 
+    title Tech Distribution
+    "JavaScript/TypeScript" : 45
+    "React Ecosystem" : 30
+    "Backend" : 20
+    "DevOps" : 5
